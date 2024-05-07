@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
+
+
+.text{
+    
+    align-items: center ;
+    text-align: right;
+    font-size: 30px;
+}
+.text li{
+    display: inline;
+    margin-right: 20px;
+    color: black;
+}
+.text li :hover{
+    border-radius: 20px;
+    transition: 2s;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(51,172,173,1) 61%, rgba(199,213,213,1) 93%);
+}
+.btn{
+    background-color:#33acad ;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.music {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 90px;
+    font-family: freeman sans-serif;
+
+}
+.music :hover{
+    background-color: black;
+    color: rgb(76, 145, 165);
+}
+span{
+    font-size: 30px;
+}
+.center{
+    text-align: center;
+}
+.btn-bttn {
+    border-radius: 50px;
+    font-size: 20px;
+    margin-top: 80px;
+    color: black;
+    background-color: #33acad;
+    box-shadow: 1px 2px 2px 4px;
+
+}
